@@ -1,0 +1,5 @@
+                                 what Is The Shell?
+
+When we speak of the command line, we are really referring to（指） the shell. The shell is a program that takes keyboard commands and passes them to the operating system(操作系统） to carry out（执行）. Almost all Linux distributions（发行
+版） supply a shell program from the GNU Project called bash. The name “bash” is an acronym（首字母缩略词） for “Bourne Again SHell”, a reference（引用） to the fact bash is an enhanced（加强的） replacement for sh, the original Unix shell program written by Steve Bourne.
+
